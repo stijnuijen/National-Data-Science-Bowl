@@ -6,5 +6,5 @@ Manual analysis of the imagery is infeasible – it would take a year or more to
 
 The National Data Science Bowl challenges you to build an algorithm to automate the image identification process. Scientists at the Hatfield Marine Science Center and beyond will use the algorithms you create to study marine food webs, fisheries, ocean conservation, and more. This is your chance to contribute to the health of the world’s oceans, one plankton at a time.
 
-###Kaggle competition
+### Kaggle competition
 www.kaggle.com/c/datasciencebowl
