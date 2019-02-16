@@ -1,4 +1,4 @@
-## National Data Science Bowl
+## Using Convolutional Neural Networks to Classify Plankton-Species
 
 Traditional methods for measuring and monitoring plankton populations are time consuming and cannot scale to the granularity or scope necessary for large-scale studies. Improved approaches are needed. One such approach is through the use of an underwater imagery sensor. This towed, underwater camera system captures microscopic, high-resolution images over large study areas. The images can then be analyzed to assess species populations and distributions.
 
